@@ -1,8 +1,16 @@
-# React + Vite
+# TV Show Explorer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TV Show Explorer is a React.js web application that allows users to explore and discover information about various TV shows. It utilizes the TVmaze API to fetch data about TV shows and display them in an intuitive user interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Show List**: View a list of TV shows with basic details such as name and summary.
+- **Summary Page**: Access a separate page for each show to view a summary and book movie tickets.
+- **Booking Page**: Access a separate page for each show to input the name and email id and confirm movie tickets.
+
+## Technologies Used
+
+- **React.js**: Frontend library for building user interfaces.
+- **React Router**: Routing library for navigation within the application.
+- **Axios**: HTTP client for making requests to the TVmaze API.
+
