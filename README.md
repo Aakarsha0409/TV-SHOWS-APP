@@ -4,8 +4,8 @@ TV Show Explorer is a React.js web application that allows users to explore and 
 ## Features
 
 - **Show List:** View a list of TV shows with basic details such as name and summary.
-- **Show Details:** Click on a TV show to view detailed information, including the summary and additional details.
 - **Summary Page:** Access a separate page for each show to view a summary and book movie tickets.
+- **Booking Page:** Access a separate page for each show to input the name and email id and confirm movie tickets.
 
 ## Technologies Used
 
